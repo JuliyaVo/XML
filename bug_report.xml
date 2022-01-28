@@ -4,8 +4,6 @@
         <name>CART - Unable to add new item to my cart</name>
         <reporter>JuliyaVo</reporter>
         <date>01/12/2022</date>
-</BugID>
-
 <summery>When my cart contains one item, I am unable to add a second item via the add to cart button on a prodact page</summery>
 <discription>None</discription>
 <project>#12</project>
@@ -14,13 +12,10 @@
       <stepsToReproduce>Add one item to cart>go to product abc via the search bar>add new item to cart via "add to cart" button"</stepsToReproduce>
       <expectedResult>The cart chould contains 2 item</expectedResult>
       <actualResult>The cart contains only 1 item</actualResult>
-        
 </details>
 <tracking>
         <severity>Major</severity>
         <priority>High</priority>
         <assignedTo>Mustafa Singh</assignedTo>
-
 </tracking>
-
-
+</BugID>
