@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<userFavorite>
 <userSkills>
      <category>Hard Skills</category>
         <name>Понимание процессов тестирования и разработки ПО</name>
@@ -8,4 +7,3 @@
         <name>postman</name>
         <name>git_bash</name>
  </userSkills>
- </userFavorite>
